@@ -1,4 +1,4 @@
-
+#! /bin/bash
 #for mavin git install
 
 yum install git tree java-1.8.0-openjdk maven -y
